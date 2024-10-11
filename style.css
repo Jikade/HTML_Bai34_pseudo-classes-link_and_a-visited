@@ -1,0 +1,9 @@
+/* Chỉnh kiểu cho link chưa truy cập */
+a.hieu1:link {
+  color: brown;
+}
+
+/* Chỉnh kiểu cho link đã truy cập */
+a.hieu1:visited {
+  color: rgb(52, 165, 42);
+}
